@@ -1,4 +1,5 @@
 ---
 layout: null
 ---
-# Build fix
+# Jekyll.rb include test
+Content: {% include jekyllrb %}
