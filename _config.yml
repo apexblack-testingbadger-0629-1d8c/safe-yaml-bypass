@@ -1,0 +1,5 @@
+title: SafeYAML Bypass Test
+safe: false
+safe_yaml: false
+whitelist: []
+plugins: []
